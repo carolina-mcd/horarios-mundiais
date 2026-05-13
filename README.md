@@ -3,6 +3,8 @@
 
 Dashboard moderno desenvolvido com React + TypeScript + Tailwind CSS para visualizar horários e condições climáticas em diferentes países em tempo real.
 
+# Link do Projeto: https://horarios-mundiais.vercel.app/
+
 ## ✨ Funcionalidades
 
 * Horário mundial em tempo real
